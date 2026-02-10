@@ -1,0 +1,6 @@
+name = "NestedNumbers"
+uuid = "1f6363f3-4ba7-41a3-bcac-d685ef427933"
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
